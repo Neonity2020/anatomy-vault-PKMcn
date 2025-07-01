@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中文/白质.md",
+                "file": "Eng/Central nervous system/Meninges.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "白质"
+              "title": "Meninges"
+            }
+          },
+          {
+            "id": "f4ad4eabfa0c1776",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/Pasted image 20250702073604.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250702073604"
             }
           },
           {
@@ -61,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中文/白质.md",
+                "file": "中文/中枢神经系统/白质.md",
                 "mode": "source",
                 "source": false
               },
@@ -266,10 +278,15 @@
   },
   "active": "3815e76ffc641181",
   "lastOpenFiles": [
-    "Eng/Central nervous system/White matter.md",
-    "中文/白质.md",
-    "中文/灰质.md",
+    "Eng/Central nervous system/Ependyma.md",
     "Eng/Central nervous system/Meninges.md",
+    "assets/Pasted image 20250702073604.png",
+    "building-log.md",
+    "Eng/01-Acronym.md",
+    "中文/中枢神经系统/白质.md",
+    "中文/中枢神经系统/室管膜.md",
+    "Eng/Central nervous system/White matter.md",
+    "中文/中枢神经系统/灰质.md",
     "中文/中枢神经系统",
     "Eng/Central nervous system/Cerebellum.md",
     "Eng/Central nervous system/​​Gray matter.md",
@@ -278,26 +295,21 @@
     "assets/Pasted image 20250702071935.png",
     "Eng/Central nervous system/Reticular formation.md",
     "Eng/Central nervous system/Reticular.md",
-    "Eng/Central nervous system/Ependyma.md",
     "Eng/Central nervous system/CNS.md",
-    "Eng/01-Acronym.md",
     "Eng/Central nervous system/Meninges",
     "Eng/Central nervous system.md",
     "Eng/Central nervous system/Brain.md",
     "Eng/Central nervous system",
-    "中文/室管膜.md",
     "欢迎.md",
     "MOC Tree.md",
     "assets/Pasted image 20250701173850.png",
     "assets/Pasted image 20250701165201.png",
     "Eng/Central nervous system/Brainstem.md",
-    "building-log.md",
-    "中文/脑干.md",
+    "中文/中枢神经系统/脑干.md",
     "Eng/Central nervous system/Cerebrum.md",
-    "中文/端脑.md",
-    "中文/脑.md",
-    "中文/小脑.md",
-    "中文/网状结构.md",
+    "中文/中枢神经系统/端脑.md",
+    "中文/中枢神经系统/脑.md",
+    "中文/中枢神经系统/小脑.md",
     "assets",
     "Eng",
     "中文"
