@@ -172,8 +172,7 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "github-sync:Sync with Remote": false
+      "command-palette:打开命令面板": false
     }
   },
   "floating": {
@@ -206,8 +205,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 650,
-        "y": 224,
+        "x": 133,
+        "y": 99,
         "width": 1024,
         "height": 800,
         "maximize": false,
