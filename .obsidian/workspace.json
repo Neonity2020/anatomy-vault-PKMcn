@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eng/Brainstem.md",
+                "file": "MOC Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brainstem"
+              "title": "MOC Tree"
             }
           }
         ]
@@ -172,7 +172,8 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "floating": {
@@ -214,12 +215,13 @@
       }
     ]
   },
-  "active": "dcc258806dc3a03b",
+  "active": "3099a0009b352a0d",
   "lastOpenFiles": [
+    "assets/Pasted image 20250701173850.png",
+    "assets/Pasted image 20250701165201.png",
     "Eng/Brainstem.md",
     "Eng/01-Acronym.md",
     "building-log.md",
-    "assets/Pasted image 20250701173850.png",
     "欢迎.md",
     "中文/脑干.md",
     "MOC Tree.md",
@@ -230,7 +232,6 @@
     "中文/脑.md",
     "中文/小脑.md",
     "Eng/Cerebellum.md",
-    "assets/Pasted image 20250701165201.png",
     "中文/网状结构.md",
     "中文/中枢神经系统.md",
     "Eng/CNS.md",
