@@ -1,0 +1,8 @@
+- [[Gray matter]]
+- [[White matter]]
+- [[Reticular formation]]
+- [[Ependyma]]
+- [[Brain]]
+	- [[Cerebrum]]
+	- [[Cerebellum]]
+	- [[Brainstem]]
