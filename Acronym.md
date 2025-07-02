@@ -34,6 +34,7 @@
 - [[Pituitary gland]], [[垂体]]
 ## Q
 ## R
+- [[Reticular]], [[Reticular formation]], [[网状结构]]
 ## S
 - [[Skull​​]], 颅骨
 - [[Spinal cord]], 脊髓
