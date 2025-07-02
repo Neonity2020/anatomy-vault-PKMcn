@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acronym.md",
+                "file": "Eng/Central nervous system/Spinal cord.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acronym"
+              "title": "Spinal cord"
             }
           }
         ]
@@ -218,6 +218,7 @@
   "active": "99596f0a7bb1d2e2",
   "lastOpenFiles": [
     "MOC Tree.md",
+    "Acronym.md",
     "Eng/Central nervous system.md",
     "中文/中枢神经系统.md",
     "building-logs.md",
@@ -225,7 +226,7 @@
     "中文/中枢神经系统/脑干.md",
     "中文/中枢神经系统/网状结构.md",
     "Eng/Central nervous system/Reticular formation.md",
-    "Spinal cord.md",
+    "Eng/Central nervous system/Spinal cord.md",
     "中文/中枢神经系统/白质.md",
     "中文/中枢神经系统/垂体.md",
     "Eng/Central nervous system/Brain.md",
@@ -243,7 +244,6 @@
     "Eng/Central nervous system/Meninges.md",
     "中文/中枢神经系统/硬脑膜.md",
     "Eng/Central nervous system/Meninges/Dura.md",
-    "Acronym.md",
     "Eng/Central nervous system/Meninges/Dura",
     "中文/中枢神经系统",
     "assets/Pasted image 20250702071935.png",
