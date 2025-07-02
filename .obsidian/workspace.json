@@ -8,81 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3099a0009b352a0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eng/Central nervous system/Cerebellum.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cerebellum"
-            }
-          },
-          {
-            "id": "3815e76ffc641181",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eng/Central nervous system/Brain.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Brain"
-            }
-          },
-          {
-            "id": "f4ad4eabfa0c1776",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Pasted image 20250702073604.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250702073604"
-            }
-          },
-          {
             "id": "7dc6d64be93d6caa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中文/中枢神经系统/白质.md",
+                "file": "中文/中枢神经系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "白质"
+              "title": "中枢神经系统"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,42 +215,42 @@
       }
     ]
   },
-  "active": "3815e76ffc641181",
+  "active": "99596f0a7bb1d2e2",
   "lastOpenFiles": [
-    "Eng/Central nervous system/Cerebrum.md",
-    "Eng/Central nervous system/Cerebellum.md",
     "Eng/Central nervous system/Brainstem.md",
+    "中文/中枢神经系统/脑干.md",
+    "中文/中枢神经系统/网状结构.md",
+    "Eng/Central nervous system/Reticular formation.md",
+    "MOC Tree.md",
+    "building-logs.md",
+    "Spinal cord.md",
+    "Eng/Central nervous system.md",
+    "中文/中枢神经系统/白质.md",
+    "中文/中枢神经系统/垂体.md",
     "Eng/Central nervous system/Brain.md",
+    "Eng/Central nervous system/​​Gray matter.md",
+    "欢迎.md",
+    "Eng/Central nervous system/CNS.md",
+    "中文/中枢神经系统/灰质.md",
+    "Gray matter.md",
+    "中文/中枢神经系统.md",
+    "Eng/Central nervous system/Pituitary gland.md",
+    "Eng/Central nervous system/Cerebellum.md",
+    "assets/Pasted image 20250702073604.png",
+    "中文/中枢神经系统/间脑.md",
+    "Eng/Central nervous system/Diencephalon.md",
+    "Eng/Central nervous system/Cerebrum.md",
     "Eng/Central nervous system/Meninges.md",
     "中文/中枢神经系统/硬脑膜.md",
     "Eng/Central nervous system/Meninges/Dura.md",
     "Eng/01-Acronym.md",
     "Eng/Central nervous system/Meninges/Dura",
-    "Eng/Central nervous system/Skull​​.md",
-    "Eng/Central nervous system/Ependyma.md",
-    "assets/Pasted image 20250702073604.png",
-    "building-log.md",
-    "中文/中枢神经系统/白质.md",
-    "中文/中枢神经系统/室管膜.md",
-    "Eng/Central nervous system/White matter.md",
-    "中文/中枢神经系统/灰质.md",
     "中文/中枢神经系统",
-    "Eng/Central nervous system/​​Gray matter.md",
-    "Eng/Central nervous system/Gray matter.md",
-    "​​Gray matter​​.md",
     "assets/Pasted image 20250702071935.png",
-    "Eng/Central nervous system/Reticular formation.md",
-    "Eng/Central nervous system/Reticular.md",
-    "Eng/Central nervous system/CNS.md",
     "Eng/Central nervous system/Meninges",
-    "Eng/Central nervous system.md",
     "Eng/Central nervous system",
-    "欢迎.md",
-    "MOC Tree.md",
     "assets/Pasted image 20250701173850.png",
     "assets/Pasted image 20250701165201.png",
-    "中文/中枢神经系统/脑干.md",
-    "中文/中枢神经系统/端脑.md",
     "assets",
     "Eng",
     "中文"
