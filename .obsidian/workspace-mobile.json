@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eng/Central nervous system/Brain/Cerebrum.md",
+                "file": "中文/中枢神经系统/灰质.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Eng/Central nervous system/Brain/Cerebrum.md",
+            "file": "中文/中枢神经系统/灰质.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Eng/Central nervous system/Brain/Cerebrum.md",
+            "file": "中文/中枢神经系统/灰质.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Eng/Central nervous system/Brain/Cerebrum.md"
+            "file": "中文/中枢神经系统/灰质.md"
           }
         }
       }
@@ -133,6 +133,10 @@
   },
   "active": "24023743dfbca357",
   "lastOpenFiles": [
+    "Eng/Central nervous system/​​Gray matter.md",
+    "MOC Tree.md",
+    "欢迎.md",
+    "Eng/Central nervous system/Brain/Cerebrum.md",
     "中文/中枢神经系统.md",
     "中文/中枢神经系统/脑.md",
     "Eng/Central nervous system/Brain.md",
@@ -165,11 +169,7 @@
     "assets/Pasted image 20250702105900.png",
     "assets/Pasted image 20250702104420.png",
     "Eng/Central nervous system/Pericranium.md",
-    "中文/中枢神经系统/脑膜.md",
     "assets/Pasted image 20250702102051.png",
-    "Eng/Central nervous system/Brain/Diencephalon/Midbrain.md",
-    "Eng/Central nervous system/Brain/Falx cerebelli.md",
-    "Eng/Central nervous system/Brain/Lateral sulcus.md",
     "Eng/Central nervous system/Brain/Diencephalon",
     "Eng/Central nervous system/Brain"
   ]
