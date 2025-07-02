@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eng/Central nervous system/Ependyma.md",
+                "file": "Eng/Central nervous system/Brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Ependyma 的反向链接列表"
+              "title": "Brain 的反向链接列表"
             }
           },
           {
@@ -155,7 +155,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Eng/Central nervous system/Ependyma.md"
+                "file": "Eng/Central nervous system/Brain.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -164,23 +164,20 @@
           {
             "id": "7dc6d64be93d6caa",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC Tree.md",
+                "file": "Eng/Central nervous system/Brain.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "MOC Tree"
+              "title": "Brain"
             }
           },
           {
             "id": "968a0cc879400018",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -188,13 +185,12 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Acronym"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -250,8 +246,10 @@
       }
     ]
   },
-  "active": "542815480bd79681",
+  "active": "7dc6d64be93d6caa",
   "lastOpenFiles": [
+    "MOC Tree.md",
+    "Eng/Central nervous system/Ependyma.md",
     "中文/中枢神经系统.md",
     "中文/中枢神经系统/脊髓.md",
     "Eng/Central nervous system/Subarachnoid space​​.md",
@@ -269,7 +267,6 @@
     "中文/中枢神经系统/脑膜/大脑镰.md",
     "Eng/Central nervous system/Meninges/Dura.md",
     "assets/Pasted image 20250702111234.png",
-    "MOC Tree.md",
     "Eng/Central nervous system/Brain/Diencephalon.md",
     "Eng/Central nervous system/Brain/Diencephalon",
     "Eng/Central nervous system/Brain/Lateral sulcus.md",
@@ -281,7 +278,6 @@
     "中文/中枢神经系统/端脑/五叶/枕叶.md",
     "中文/中枢神经系统/端脑/五叶/顶叶.md",
     "中文/中枢神经系统/端脑/五叶/额叶.md",
-    "中文/中枢神经系统/脑.md",
     "中文/中枢神经系统/端脑/五叶",
     "中文/中枢神经系统/端脑/三沟",
     "中文/中枢神经系统/端脑",

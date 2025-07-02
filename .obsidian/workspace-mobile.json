@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eng/Central nervous system/Cerebrum.md",
-                "mode": "source",
+                "file": "Eng/Central nervous system/Brain.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Eng/Central nervous system/Cerebrum.md",
+            "file": "Eng/Central nervous system/Brain.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Eng/Central nervous system/Cerebrum.md",
+            "file": "Eng/Central nervous system/Brain.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Eng/Central nervous system/Cerebrum.md"
+            "file": "Eng/Central nervous system/Brain.md"
           }
         }
       }
@@ -133,8 +133,42 @@
   },
   "active": "039628cb7f346a9d",
   "lastOpenFiles": [
-    "Eng/Central nervous system/Brain.md",
-    "MOC Tree.md",
-    "中文/中枢神经系统/脑.md"
+    "Eng/Central nervous system/Cerebrum.md",
+    "中文/中枢神经系统/脊髓.md",
+    "Eng/Central nervous system/Subarachnoid space​​.md",
+    "Eng/Central nervous system/lobes.md",
+    "Eng/Central nervous system/Meninges/Pia mater​​.md",
+    "assets/Pasted image 20250702111234.png",
+    "Eng/Central nervous system/Falx cerebri.md",
+    "中文/中枢神经系统/间脑/中脑.md",
+    "中文/中枢神经系统/间脑",
+    "中文/中枢神经系统/脑膜/小脑镰.md",
+    "中文/中枢神经系统/脑膜/硬脑膜.md",
+    "中文/中枢神经系统/脑膜/大脑镰.md",
+    "中文/中枢神经系统/脑膜",
+    "中文/中枢神经系统/端脑/五叶/顶叶.md",
+    "中文/中枢神经系统/端脑/五叶/枕叶.md",
+    "中文/中枢神经系统/端脑/五叶/岛叶.md",
+    "中文/中枢神经系统/端脑/五叶/颞叶.md",
+    "中文/中枢神经系统/端脑/五叶/额叶.md",
+    "中文/中枢神经系统/端脑/三沟/顶枕沟.md",
+    "中文/中枢神经系统/端脑/三沟/外侧沟.md",
+    "中文/中枢神经系统/端脑/三沟/中央沟.md",
+    "中文/中枢神经系统/端脑/五叶",
+    "中文/中枢神经系统/端脑/三沟",
+    "中文/中枢神经系统/端脑",
+    "assets/Pasted image 20250702105900.png",
+    "assets/Pasted image 20250702104420.png",
+    "Eng/Central nervous system/Pericranium.md",
+    "中文/中枢神经系统/脑膜.md",
+    "assets/Pasted image 20250702102051.png",
+    "Eng/Central nervous system/Brain/Diencephalon/Midbrain.md",
+    "Eng/Central nervous system/Brain/Falx cerebelli.md",
+    "Eng/Central nervous system/Brain/Lateral sulcus.md",
+    "Eng/Central nervous system/Brain/Central sulcus.md",
+    "Eng/Central nervous system/Brain/Sulci.md",
+    "Eng/Central nervous system/Brain/Sulcus.md",
+    "Eng/Central nervous system/Brain/Diencephalon",
+    "Eng/Central nervous system/Brain"
   ]
 }
