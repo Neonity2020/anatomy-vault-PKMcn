@@ -6,7 +6,7 @@ _n._ <解>大脑，[[端脑]]
 		- [[Central sulcus]], 中央沟
 		- [[Lateral sulcus]], 外侧沟
 		- [[Parieto-occipital sulcus]], 顶枕沟
-	- 5 [[lobes]] 五叶
+	- 5 [[Lobes]] 五叶
 		- 额叶
 		- 顶叶
 		- 枕叶

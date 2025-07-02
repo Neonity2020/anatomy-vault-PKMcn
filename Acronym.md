@@ -22,6 +22,8 @@
 ## J
 ## K
 ## L
+- [[Lateral sulcus]], 外侧沟
+- [[Lobes]], 脑叶
 ## M
 - [[Meninges]], [[脑膜]]
 ## N
@@ -33,6 +35,8 @@
 ## R
 ## S
 - [[Skull​​]], 颅骨
+- [[Spinal cord]], 脊髓
+- [[Sulci]] ([[Sulcus]]), 脑沟
 ## T
 ## U
 ## V
