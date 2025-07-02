@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eng/Central nervous system/Brain.md",
+                "file": "Eng/Central nervous system/Brain/Cerebrum.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Eng/Central nervous system/Brain.md",
+            "file": "Eng/Central nervous system/Brain/Cerebrum.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Eng/Central nervous system/Brain.md",
+            "file": "Eng/Central nervous system/Brain/Cerebrum.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Eng/Central nervous system/Brain.md"
+            "file": "Eng/Central nervous system/Brain/Cerebrum.md"
           }
         }
       }
@@ -131,8 +131,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "039628cb7f346a9d",
+  "active": "24023743dfbca357",
   "lastOpenFiles": [
+    "中文/中枢神经系统.md",
+    "中文/中枢神经系统/脑.md",
+    "Eng/Central nervous system/Brain.md",
+    "assets/Pasted image 20250702132200.png",
+    "assets/Pasted image 20250702132145.png",
     "Eng/Central nervous system/Cerebrum.md",
     "中文/中枢神经系统/脊髓.md",
     "Eng/Central nervous system/Subarachnoid space​​.md",
@@ -165,9 +170,6 @@
     "Eng/Central nervous system/Brain/Diencephalon/Midbrain.md",
     "Eng/Central nervous system/Brain/Falx cerebelli.md",
     "Eng/Central nervous system/Brain/Lateral sulcus.md",
-    "Eng/Central nervous system/Brain/Central sulcus.md",
-    "Eng/Central nervous system/Brain/Sulci.md",
-    "Eng/Central nervous system/Brain/Sulcus.md",
     "Eng/Central nervous system/Brain/Diencephalon",
     "Eng/Central nervous system/Brain"
   ]
