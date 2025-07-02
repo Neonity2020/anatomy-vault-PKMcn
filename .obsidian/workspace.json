@@ -13,22 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eng/Central nervous system/Brain.md",
+                "file": "MOC Tree.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Brain"
+              "title": "MOC Tree"
             }
           }
         ]
@@ -227,23 +217,25 @@
   },
   "active": "7dc6d64be93d6caa",
   "lastOpenFiles": [
+    "Pasted image 20250702102051.png",
     "MOC Tree.md",
+    "building-logs.md",
+    "Acronym.md",
+    "欢迎.md",
+    "Eng/Central nervous system/Cerebrum.md",
+    "中文/中枢神经系统/端脑.md",
+    "Eng/Central nervous system/Brain.md",
     "中文/中枢神经系统/硬脑膜.md",
     "Eng/Central nervous system/Meninges/Dura.md",
-    "Acronym.md",
-    "Eng/Central nervous system/Cerebrum.md",
-    "欢迎.md",
     "Eng/Central nervous system/Brainstem.md",
     "Eng/Central nervous system/Spinal cord.md",
     "Eng/Central nervous system.md",
     "中文/中枢神经系统.md",
-    "building-logs.md",
     "中文/中枢神经系统/脑干.md",
     "中文/中枢神经系统/网状结构.md",
     "Eng/Central nervous system/Reticular formation.md",
     "中文/中枢神经系统/白质.md",
     "中文/中枢神经系统/垂体.md",
-    "Eng/Central nervous system/Brain.md",
     "Eng/Central nervous system/​​Gray matter.md",
     "Eng/Central nervous system/CNS.md",
     "中文/中枢神经系统/灰质.md",
@@ -252,8 +244,6 @@
     "Eng/Central nervous system/Cerebellum.md",
     "assets/Pasted image 20250702073604.png",
     "中文/中枢神经系统/间脑.md",
-    "Eng/Central nervous system/Diencephalon.md",
-    "Eng/Central nervous system/Meninges.md",
     "Eng/Central nervous system/Meninges/Dura",
     "中文/中枢神经系统",
     "assets/Pasted image 20250702071935.png",

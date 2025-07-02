@@ -1,3 +1,7 @@
 {
-  "cssTheme": "Zen"
+  "cssTheme": "Zen",
+  "accentColor": "",
+  "theme": "system",
+  "textFontFamily": "HYQiHei",
+  "interfaceFontFamily": "American Typewriter"
 }

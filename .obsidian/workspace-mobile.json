@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "a3a8c47fed04949a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd97a7e61727be0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "039628cb7f346a9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eng/Central nervous system/Cerebrum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "efb29d3fcae17753",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "24023743dfbca357",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2e3c6265d7ef727b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "36a65323dd5c68ac",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "bf7cf07b3e49f70b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e2541ba242bfd06f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1f5131208f475bd5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Eng/Central nervous system/Cerebrum.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "65fd6e203d66a363",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Eng/Central nervous system/Cerebrum.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cd954588dd7827ec",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Eng/Central nervous system/Cerebrum.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "039628cb7f346a9d",
+  "lastOpenFiles": [
+    "Eng/Central nervous system/Brain.md",
+    "MOC Tree.md",
+    "中文/中枢神经系统/脑.md"
+  ]
+}
