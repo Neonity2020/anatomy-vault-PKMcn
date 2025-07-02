@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eng/Central nervous system/Spinal cord.md",
+                "file": "中文/中枢神经系统/硬脑膜.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Spinal cord"
+              "title": "硬脑膜"
             }
           }
         ]
@@ -215,23 +225,26 @@
       }
     ]
   },
-  "active": "99596f0a7bb1d2e2",
+  "active": "7dc6d64be93d6caa",
   "lastOpenFiles": [
-    "MOC Tree.md",
+    "Eng/Central nervous system/Meninges/Dura.md",
+    "中文/中枢神经系统/硬脑膜.md",
     "Acronym.md",
+    "MOC Tree.md",
+    "Eng/Central nervous system/Cerebrum.md",
+    "欢迎.md",
+    "Eng/Central nervous system/Brainstem.md",
+    "Eng/Central nervous system/Spinal cord.md",
     "Eng/Central nervous system.md",
     "中文/中枢神经系统.md",
     "building-logs.md",
-    "Eng/Central nervous system/Brainstem.md",
     "中文/中枢神经系统/脑干.md",
     "中文/中枢神经系统/网状结构.md",
     "Eng/Central nervous system/Reticular formation.md",
-    "Eng/Central nervous system/Spinal cord.md",
     "中文/中枢神经系统/白质.md",
     "中文/中枢神经系统/垂体.md",
     "Eng/Central nervous system/Brain.md",
     "Eng/Central nervous system/​​Gray matter.md",
-    "欢迎.md",
     "Eng/Central nervous system/CNS.md",
     "中文/中枢神经系统/灰质.md",
     "Gray matter.md",
@@ -240,10 +253,7 @@
     "assets/Pasted image 20250702073604.png",
     "中文/中枢神经系统/间脑.md",
     "Eng/Central nervous system/Diencephalon.md",
-    "Eng/Central nervous system/Cerebrum.md",
     "Eng/Central nervous system/Meninges.md",
-    "中文/中枢神经系统/硬脑膜.md",
-    "Eng/Central nervous system/Meninges/Dura.md",
     "Eng/Central nervous system/Meninges/Dura",
     "中文/中枢神经系统",
     "assets/Pasted image 20250702071935.png",

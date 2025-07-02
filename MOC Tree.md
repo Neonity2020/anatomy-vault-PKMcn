@@ -7,5 +7,9 @@
 - [[Reticular formation]], [[网状结构]]
 - [[Ependyma]], [[室管膜]]
 - [[Brain]], [[脑]]
+	- [[Cerebrum]], [[端脑]]
+	- [[Diencephalon]], [[间脑]]
+	- [[Brainstem]], [[脑干]]
+	- [[Pituitary gland]], [[垂体]]
 ### Peripheral nervous system 外周神经系统
 - 
