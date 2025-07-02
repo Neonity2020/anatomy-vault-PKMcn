@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eng/Central nervous system/Spinal cord.md",
+                "file": "中文/中枢神经系统/网状结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spinal cord"
+              "title": "网状结构"
             }
           }
         ]
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eng/Central nervous system/Spinal cord.md",
+                "file": "中文/中枢神经系统/网状结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Spinal cord 的反向链接列表"
+              "title": "网状结构 的反向链接列表"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eng/Central nervous system/Spinal cord.md",
+                "file": "中文/中枢神经系统/网状结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Spinal cord 的出链列表"
+              "title": "网状结构 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eng/Central nervous system/Spinal cord.md",
+                "file": "中文/中枢神经系统/网状结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Spinal cord 的大纲"
+              "title": "网状结构 的大纲"
             }
           }
         ],
@@ -185,34 +185,34 @@
   },
   "active": "d0cc5e1747626088",
   "lastOpenFiles": [
+    "Eng/Central nervous system/Reticular formation.md",
+    "Eng/Central nervous system/Reticular.md",
+    "中文/中枢神经系统/网状结构.md",
+    "ARAS.md",
+    "Eng/Central nervous system/White matter.md",
+    "Eng/Central nervous system/Subarachnoid space​​.md",
+    "Eng/Central nervous system/Skull​​.md",
+    "Eng/Central nervous system/Spinal cord.md",
+    "MOC Tree.md",
     "Acronym.md",
+    "欢迎.md",
+    "Eng/Central nervous system/Medulla.md",
+    "中文/中枢神经系统.md",
+    "Eng/Central nervous system.md",
+    "building-logs.md",
     "Eng/Central nervous system/Meninges/Dura.md",
     "中文/中枢神经系统/脑膜/硬脑膜.md",
     "Eng/Central nervous system/Lobes.md",
     "Eng/Central nervous system/Brain/Cerebrum.md",
     "Eng/Central nervous system/Brain/Parieto-occipital sulcus.md",
-    "MOC Tree.md",
     "Eng/Central nervous system/Brain/Sulci.md",
     "Eng/Central nervous system/Brain/Sulcus.md",
     "Eng/Central nervous system/Brain/Pons.md",
     "Eng/Central nervous system/Meninges/Pia mater​​.md",
     "Eng/Central nervous system/Brain.md",
     "Eng/Central nervous system/Brain/Diencephalon.md",
-    "Eng/Central nervous system/Brain/Diencephalon/Midbrain.md",
-    "building-logs.md",
-    "Eng/Central nervous system.md",
-    "中文/中枢神经系统.md",
-    "中文/中枢神经系统/灰质.md",
-    "Eng/Central nervous system/​​Gray matter.md",
-    "欢迎.md",
     "assets/Pasted image 20250702132200.png",
     "assets/Pasted image 20250702132145.png",
-    "中文/中枢神经系统/垂体.md",
-    "Eng/Central nervous system/Ependyma.md",
-    "中文/中枢神经系统/脊髓.md",
-    "Eng/Central nervous system/Subarachnoid space​​.md",
-    "Eng/Central nervous system/Meninges.md",
-    "中文/中枢神经系统/脑膜.md",
     "assets/Pasted image 20250702111234.png",
     "Eng/Central nervous system/Brain/Diencephalon",
     "中文/中枢神经系统/脑膜",
