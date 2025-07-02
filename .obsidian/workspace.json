@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中文/中枢神经系统.md",
+                "file": "Acronym.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "中枢神经系统"
+              "title": "Acronym"
             }
           }
         ]
@@ -217,14 +217,15 @@
   },
   "active": "99596f0a7bb1d2e2",
   "lastOpenFiles": [
+    "MOC Tree.md",
+    "Eng/Central nervous system.md",
+    "中文/中枢神经系统.md",
+    "building-logs.md",
     "Eng/Central nervous system/Brainstem.md",
     "中文/中枢神经系统/脑干.md",
     "中文/中枢神经系统/网状结构.md",
     "Eng/Central nervous system/Reticular formation.md",
-    "MOC Tree.md",
-    "building-logs.md",
     "Spinal cord.md",
-    "Eng/Central nervous system.md",
     "中文/中枢神经系统/白质.md",
     "中文/中枢神经系统/垂体.md",
     "Eng/Central nervous system/Brain.md",
@@ -233,7 +234,6 @@
     "Eng/Central nervous system/CNS.md",
     "中文/中枢神经系统/灰质.md",
     "Gray matter.md",
-    "中文/中枢神经系统.md",
     "Eng/Central nervous system/Pituitary gland.md",
     "Eng/Central nervous system/Cerebellum.md",
     "assets/Pasted image 20250702073604.png",
@@ -243,7 +243,7 @@
     "Eng/Central nervous system/Meninges.md",
     "中文/中枢神经系统/硬脑膜.md",
     "Eng/Central nervous system/Meninges/Dura.md",
-    "Eng/01-Acronym.md",
+    "Acronym.md",
     "Eng/Central nervous system/Meninges/Dura",
     "中文/中枢神经系统",
     "assets/Pasted image 20250702071935.png",

@@ -6,5 +6,6 @@
 - [[White matter]], [[白质]]
 - [[Reticular formation]], [[网状结构]]
 - [[Ependyma]], [[室管膜]]
+- [[Brain]], [[脑]]
 ### Peripheral nervous system 外周神经系统
 - 
