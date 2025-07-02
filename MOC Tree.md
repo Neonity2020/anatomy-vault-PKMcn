@@ -11,4 +11,5 @@
 	- [[Diencephalon]], [[间脑]]
 	- [[Brainstem]], [[脑干]]
 	- [[Pituitary gland]], [[垂体]]
+- [[Spinal cord]], [[脊髓]]
 ### Peripheral nervous system 外周神经系统
