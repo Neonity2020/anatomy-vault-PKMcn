@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中文/中枢神经系统/硬脑膜.md",
+                "file": "Eng/Central nervous system/Brain.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "硬脑膜"
+              "title": "Brain"
             }
           }
         ]
@@ -227,10 +227,10 @@
   },
   "active": "7dc6d64be93d6caa",
   "lastOpenFiles": [
-    "Eng/Central nervous system/Meninges/Dura.md",
-    "中文/中枢神经系统/硬脑膜.md",
-    "Acronym.md",
     "MOC Tree.md",
+    "中文/中枢神经系统/硬脑膜.md",
+    "Eng/Central nervous system/Meninges/Dura.md",
+    "Acronym.md",
     "Eng/Central nervous system/Cerebrum.md",
     "欢迎.md",
     "Eng/Central nervous system/Brainstem.md",
