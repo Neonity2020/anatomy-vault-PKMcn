@@ -4,7 +4,7 @@
 - [[Brain]]
 - [[Brainstem]], [[脑干]]
 ## C
-- [[Central nervous system]], [[CNS]], [[中枢神经系统]]
+- [[Central nervous system]] ([[CNS]]), [[中枢神经系统]]
 - [[Cerebellum]], [[端脑]]
 - [[Cerebellum]], [[小脑]]
 ## D
@@ -14,16 +14,19 @@
 - [[Ependyma]], [[室管膜]]
 ## F
 ## G
+- [[​​Gray matter]], [[灰质]]
 ## H
 ## I
 ## J
 ## K
 ## L
 ## M
-- [[Meninges]]
+- [[Meninges]], [[脑膜]]
 ## N
 ## O
 ## P
+- [[Pericranium]], 颅骨膜
+- [[Pituitary gland]], [[垂体]]
 ## Q
 ## R
 ## S

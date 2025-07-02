@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1dd97bac2e0edf4b",
+        "id": "810dce7733a4eb29",
         "type": "tabs",
         "children": [
           {
-            "id": "7dc6d64be93d6caa",
+            "id": "968a0cc879400018",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/Pasted image 20250702102051.png"
+                "file": "Eng/Central nervous system/Skull​​.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250702102051"
+              "icon": "lucide-file",
+              "title": "Skull​​"
             }
           }
         ]
@@ -51,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#CNS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Eng/Central nervous system/Skull​​.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Skull​​ 的反向链接列表"
             }
           },
           {
@@ -151,17 +154,35 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Eng/Central nervous system/Skull​​.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "7dc6d64be93d6caa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOC Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "MOC Tree"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 538.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,36 +234,37 @@
       }
     ]
   },
-  "active": "99596f0a7bb1d2e2",
+  "active": "968a0cc879400018",
   "lastOpenFiles": [
-    "Eng/Central nervous system/Spinal cord.md",
-    "Eng/Central nervous system/Skull​​.md",
-    "Eng/Central nervous system/Reticular formation.md",
-    "Eng/Central nervous system/Reticular.md",
-    "Eng/Central nervous system/Pituitary gland.md",
     "Eng/Central nervous system/Meninges.md",
     "Eng/Central nervous system/​​Gray matter.md",
     "Eng/Central nervous system/Ependyma.md",
+    "Eng/Central nervous system/Brain/Brainstem.md",
+    "Eng/Central nervous system/Reticular formation.md",
+    "中文/中枢神经系统/网状结构.md",
+    "中文/中枢神经系统.md",
+    "中文/中枢神经系统/中脑.md",
+    "Eng/Central nervous system/Brain/Midbrain.md",
+    "Acronym.md",
+    "中文/中枢神经系统/垂体.md",
+    "Eng/Central nervous system/Pericranium.md",
+    "assets/Pasted image 20250702104420.png",
+    "MOC Tree.md",
+    "欢迎.md",
+    "中文/中枢神经系统/脑膜.md",
+    "building-logs.md",
+    "assets/Pasted image 20250702102051.png",
+    "Eng/Central nervous system/Spinal cord.md",
+    "Eng/Central nervous system/Skull​​.md",
+    "Eng/Central nervous system/Reticular.md",
+    "Eng/Central nervous system/Pituitary gland.md",
     "Eng/Central nervous system/Diencephalon.md",
     "中文/中枢神经系统/硬脑膜.md",
     "Eng/Central nervous system/Meninges/Dura.md",
     "Eng/Central nervous system/Brain.md",
     "Eng/Central nervous system/CNS.md",
-    "中文/中枢神经系统.md",
     "Eng/Central nervous system/Brain",
-    "MOC Tree.md",
-    "欢迎.md",
-    "Acronym.md",
-    "building-logs.md",
-    "assets/Pasted image 20250702102051.png",
     "Eng/Central nervous system/Brain/Cerebrum.md",
-    "中文/中枢神经系统/端脑.md",
-    "Eng/Central nervous system/Brain/Brainstem.md",
-    "Eng/Central nervous system.md",
-    "中文/中枢神经系统/脑干.md",
-    "中文/中枢神经系统/网状结构.md",
-    "中文/中枢神经系统/白质.md",
-    "中文/中枢神经系统/垂体.md",
     "assets/Pasted image 20250702073604.png",
     "Eng/Central nervous system/Meninges/Dura",
     "中文/中枢神经系统",
