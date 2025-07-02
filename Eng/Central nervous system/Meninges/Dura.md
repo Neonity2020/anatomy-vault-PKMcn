@@ -10,3 +10,5 @@ In specific areas, the inner **dura**l layer separates from the outer periostea
 Understanding the clinically significant spaces associated with the **dura** mater is crucial. These spaces include the epidural and subdural spaces. The epidural (or extradural) space refers to the space between the periosteal **dura**l layer and the skull bone. Epidural (arterial) hemorrhages can occur in this space when the middle meningeal arteries rupture, requiring immediate neurosurgical evacuation. The subdural space, located between the **dura** and arachnoid mater, is where venous subdural hemorrhages can occur due to traction and rupture of bridging veins.
 
 In terms of innervation, the **dura** mater receives nerve supply from the trigeminal, vagus, and first three cervical spinal nerves. Traction of **dura** mater below the tentorium cerebellum causes headaches that are referred to the back of the scalp and neck regions, while the **dura**l traction or stretching above the tentorium cerebellum leads to headache felt in the head region.
+
+![[Pasted image 20250702111234.png]]
