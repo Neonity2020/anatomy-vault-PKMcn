@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中文/中枢神经系统.md",
+                "file": "Acronym.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "中枢神经系统"
+              "title": "Acronym"
             }
           }
         ]
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中文/中枢神经系统.md",
+                "file": "Acronym.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "中枢神经系统 的反向链接列表"
+              "title": "Acronym 的反向链接列表"
             }
           },
           {
@@ -185,33 +185,34 @@
   },
   "active": "d0cc5e1747626088",
   "lastOpenFiles": [
-    "Eng/Central nervous system/​​Gray matter.md",
-    "中文/中枢神经系统/灰质.md",
-    "中文/中枢神经系统.md",
-    "Eng/Central nervous system/White matter.md",
+    "中文/中枢神经系统/脑膜/小脑幕.md",
+    "Tentorium cerebelli.md",
+    "中文/中枢神经系统/脑膜/硬脑膜.md",
+    "中文/中枢神经系统/脑膜/大脑镰.md",
+    "中文/中枢神经系统/间脑.md",
+    "中文/中枢神经系统/面神经.md",
+    "中文/中枢神经系统/迷走神经.md",
+    "Eng/Central nervous system/Brain/Pons.md",
+    "中文/中枢神经系统/间脑/脑桥.md",
+    "Pasted image 20250704072656.png",
+    "中文/中枢神经系统/间脑/延髓.md",
+    "中文/中枢神经系统/间脑/中脑.md",
     "中文/中枢神经系统/白质.md",
+    "Eng/Central nervous system/White matter.md",
+    "中文/中枢神经系统/灰质.md",
+    "中文/中枢神经系统/脊髓.md",
+    "中文/中枢神经系统.md",
+    "欢迎.md",
+    "Acronym.md",
+    "MOC Tree.md",
+    "building-logs.md",
+    "Eng/Central nervous system/​​Gray matter.md",
     "Eng/Central nervous system/Medulla.md",
     "assets/Pasted image 20250704071346.png",
     "Eng/Central nervous system/Brain/Diencephalon.md",
-    "MOC Tree.md",
     "Eng/Central nervous system/Brain/Cerebrum.md",
-    "Acronym.md",
-    "欢迎.md",
-    "building-logs.md",
-    "中文/中枢神经系统/迷走神经.md",
     "Eng/Central nervous system/Reticular formation.md",
     "中文/中枢神经系统/网状结构.md",
-    "Eng/Central nervous system/ARAS.md",
-    "中文/中枢神经系统/舌下神经.md",
-    "中文/中枢神经系统/舌咽神经.md",
-    "中文/中枢神经系统/面神经.md",
-    "中文/中枢神经系统/三叉神经.md",
-    "Eng/Central nervous system/Reticular.md",
-    "Eng/Central nervous system/Subarachnoid space​​.md",
-    "Eng/Central nervous system/Skull​​.md",
-    "Eng/Central nervous system/Spinal cord.md",
-    "Eng/Central nervous system.md",
-    "Eng/Central nervous system/Meninges/Dura.md",
     "assets/Pasted image 20250702132200.png",
     "assets/Pasted image 20250702132145.png",
     "assets/Pasted image 20250702111234.png",
@@ -229,7 +230,6 @@
     "Eng/Central nervous system/Meninges/Dura",
     "中文/中枢神经系统",
     "assets/Pasted image 20250702071935.png",
-    "Eng/Central nervous system/Meninges",
-    "assets/Pasted image 20250701173850.png"
+    "Eng/Central nervous system/Meninges"
   ]
 }

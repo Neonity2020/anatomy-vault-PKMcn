@@ -15,7 +15,7 @@
 - [[Ependyma]], [[室管膜]]
 ## F
 - [[Falx cerebri]], [[大脑镰]]
-- [[Falx cerebelli]], [[小脑镰]]
+- [[Falx cerebelli]], [[小脑幕]]
 ## G
 - [[​​Gray matter]], [[灰质]]
 ## H
