@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "颅部硬脑膜.md",
+                "file": "中文/中枢神经系统/颅部硬脑膜.md",
                 "mode": "source",
                 "source": false
               },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "颅部硬脑膜.md",
+                "file": "中文/中枢神经系统/颅部硬脑膜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,12 +185,15 @@
   },
   "active": "d0cc5e1747626088",
   "lastOpenFiles": [
-    "diaphragma sellae.md",
-    "颅部硬脑膜.md",
-    "Tentorium cerebelli.md",
-    "Eng/Central nervous system/Falx cerebri.md",
+    "Eng/Central nervous system/Meninges/Dura/Cranial dura/Falx cerebri.md",
+    "中文/中枢神经系统/颅部硬脑膜.md",
     "Eng/Central nervous system/Brain/Falx cerebelli.md",
+    "Eng/Central nervous system/Meninges/Dura/Cranial dura/diaphragma sellae.md",
+    "Eng/Central nervous system/Meninges/Pia mater​​.md",
+    "Eng/Central nervous system/Meninges/Dura/Cranial dura",
+    "Eng/Central nervous system/Ependyma.md",
     "Eng/Central nervous system/Meninges/Dura/Cranial dura.md",
+    "Eng/Central nervous system/Tentorium cerebelli.md",
     "中文/中枢神经系统/灰质.md",
     "Eng/Central nervous system/​​Gray matter.md",
     "Acronym.md",
@@ -204,14 +207,12 @@
     "中文/中枢神经系统/迷走神经.md",
     "Eng/Central nervous system/Brain/Pons.md",
     "中文/中枢神经系统/间脑/脑桥.md",
-    "Pasted image 20250704072656.png",
+    "assets/Pasted image 20250704072656.png",
     "中文/中枢神经系统/间脑/延髓.md",
     "中文/中枢神经系统/间脑/中脑.md",
     "中文/中枢神经系统/白质.md",
     "Eng/Central nervous system/White matter.md",
     "中文/中枢神经系统/脊髓.md",
-    "中文/中枢神经系统.md",
-    "欢迎.md",
     "assets/Pasted image 20250704071346.png",
     "assets/Pasted image 20250702132200.png",
     "assets/Pasted image 20250702132145.png",
@@ -229,7 +230,6 @@
     "assets/Pasted image 20250702073604.png",
     "Eng/Central nervous system/Meninges/Dura",
     "中文/中枢神经系统",
-    "assets/Pasted image 20250702071935.png",
-    "Eng/Central nervous system/Meninges"
+    "assets/Pasted image 20250702071935.png"
   ]
 }
