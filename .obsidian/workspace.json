@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eng/Central nervous system/Medulla.md",
+                "file": "中文/中枢神经系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Medulla"
+              "title": "中枢神经系统"
             }
           }
         ]
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eng/Central nervous system/Medulla.md",
+                "file": "中文/中枢神经系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Medulla 的反向链接列表"
+              "title": "中枢神经系统 的反向链接列表"
             }
           },
           {
@@ -183,8 +183,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "99596f0a7bb1d2e2",
+  "active": "d0cc5e1747626088",
   "lastOpenFiles": [
+    "Eng/Central nervous system/​​Gray matter.md",
+    "中文/中枢神经系统/灰质.md",
+    "中文/中枢神经系统.md",
+    "Eng/Central nervous system/White matter.md",
+    "中文/中枢神经系统/白质.md",
+    "Eng/Central nervous system/Medulla.md",
     "assets/Pasted image 20250704071346.png",
     "Eng/Central nervous system/Brain/Diencephalon.md",
     "MOC Tree.md",
@@ -193,7 +199,6 @@
     "欢迎.md",
     "building-logs.md",
     "中文/中枢神经系统/迷走神经.md",
-    "中文/中枢神经系统.md",
     "Eng/Central nervous system/Reticular formation.md",
     "中文/中枢神经系统/网状结构.md",
     "Eng/Central nervous system/ARAS.md",
@@ -202,15 +207,11 @@
     "中文/中枢神经系统/面神经.md",
     "中文/中枢神经系统/三叉神经.md",
     "Eng/Central nervous system/Reticular.md",
-    "Eng/Central nervous system/White matter.md",
     "Eng/Central nervous system/Subarachnoid space​​.md",
     "Eng/Central nervous system/Skull​​.md",
     "Eng/Central nervous system/Spinal cord.md",
-    "Eng/Central nervous system/Medulla.md",
     "Eng/Central nervous system.md",
     "Eng/Central nervous system/Meninges/Dura.md",
-    "中文/中枢神经系统/脑膜/硬脑膜.md",
-    "Eng/Central nervous system/Lobes.md",
     "assets/Pasted image 20250702132200.png",
     "assets/Pasted image 20250702132145.png",
     "assets/Pasted image 20250702111234.png",
@@ -229,7 +230,6 @@
     "中文/中枢神经系统",
     "assets/Pasted image 20250702071935.png",
     "Eng/Central nervous system/Meninges",
-    "assets/Pasted image 20250701173850.png",
-    "assets/Pasted image 20250701165201.png"
+    "assets/Pasted image 20250701173850.png"
   ]
 }
