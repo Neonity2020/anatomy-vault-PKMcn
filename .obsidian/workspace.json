@@ -11,14 +11,12 @@
             "id": "d0cc5e1747626088",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "building-logs.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/Pasted image 20250715183808.png"
               },
-              "icon": "lucide-file",
-              "title": "building-logs"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250715183808"
             }
           }
         ]
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "building-logs.md",
+                "file": "assets/Pasted image 20250715183808.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "building-logs 的反向链接列表"
+              "title": "Pasted image 20250715183808 的反向链接列表"
             }
           },
           {
@@ -183,9 +181,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d0cc5e1747626088",
+  "active": "99596f0a7bb1d2e2",
   "lastOpenFiles": [
-    "Pasted image 20250715183808.png",
+    "building-logs.md",
+    "assets/Pasted image 20250715183808.png",
     "中文/中枢神经系统/脑膜/硬脑膜.md",
     "Eng/Central nervous system/Meninges/Dura.md",
     "Eng/Central nervous system/Meninges/Dura/Cranial dura/diaphragma sellae.md",
@@ -229,7 +228,6 @@
     "Eng/Central nervous system/Brain",
     "assets/Pasted image 20250702073604.png",
     "Eng/Central nervous system/Meninges/Dura",
-    "中文/中枢神经系统",
-    "assets/Pasted image 20250702071935.png"
+    "中文/中枢神经系统"
   ]
 }
