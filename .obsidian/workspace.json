@@ -11,12 +11,14 @@
             "id": "d0cc5e1747626088",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/Pasted image 20250715183808.png"
+                "file": "Eng/Central nervous system/Meninges.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250715183808"
+              "icon": "lucide-file",
+              "title": "Meninges"
             }
           }
         ]
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Pasted image 20250715183808.png",
+                "file": "Eng/Central nervous system/Meninges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Pasted image 20250715183808 的反向链接列表"
+              "title": "Meninges 的反向链接列表"
             }
           },
           {
@@ -181,10 +183,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "99596f0a7bb1d2e2",
+  "active": "d0cc5e1747626088",
   "lastOpenFiles": [
-    "building-logs.md",
+    "Eng/Central nervous system/Cerebral cortex​.md",
+    "中文/中枢神经系统/大脑皮质.md",
     "assets/Pasted image 20250715183808.png",
+    "building-logs.md",
     "中文/中枢神经系统/脑膜/硬脑膜.md",
     "Eng/Central nervous system/Meninges/Dura.md",
     "Eng/Central nervous system/Meninges/Dura/Cranial dura/diaphragma sellae.md",
@@ -197,7 +201,6 @@
     "Eng/Central nervous system/Brain/Parieto-occipital sulcus.md",
     "Eng/Central nervous system/Brain/Lateral sulcus.md",
     "Eng/Central nervous system/Brain/Diencephalon.md",
-    "Eng/Central nervous system/Cerebral cortex​.md",
     "Eng/Central nervous system/Pituitary gland.md",
     "中文/中枢神经系统/垂体.md",
     "Eng/Central nervous system/Pericranium.md",
@@ -209,7 +212,6 @@
     "Acronym 词汇表.md",
     "Eng/Central nervous system/Meninges/Dura/Cranial dura.md",
     "中文/中枢神经系统/颅部硬脑膜.md",
-    "Eng/Central nervous system/Meninges/Pia mater​​.md",
     "Eng/Central nervous system/Meninges/Dura/Cranial dura",
     "assets/Pasted image 20250704072656.png",
     "assets/Pasted image 20250704071346.png",
