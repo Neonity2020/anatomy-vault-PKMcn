@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eng/Brainstem.md",
+                "file": "中文/网状结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brainstem"
+              "title": "网状结构"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 344.5
   },
   "right": {
     "id": "6b9720074a8b5bc1",
@@ -176,64 +176,25 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "floating": {
-    "id": "d041601b856f06ae",
-    "type": "floating",
-    "children": [
-      {
-        "id": "064e5d06b000f4d2",
-        "type": "window",
-        "children": [
-          {
-            "id": "6411d2a792dcf6e7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "dcc258806dc3a03b",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/kevinmkchin/Obsidian-GitHub-Sync/blob/main/README.md",
-                    "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 650,
-        "y": 224,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "dcc258806dc3a03b",
+  "active": "3099a0009b352a0d",
   "lastOpenFiles": [
+    "中文/小脑.md",
+    "中文/中枢神经系统.md",
+    "中文/网状结构.md",
+    "中文/脑干.md",
+    "中文/脑.md",
+    "中文/端脑.md",
+    "欢迎.md",
     "Eng/Brainstem.md",
     "Eng/01-Acronym.md",
     "building-log.md",
     "assets/Pasted image 20250701173850.png",
-    "欢迎.md",
-    "中文/脑干.md",
     "MOC Tree.md",
     "Eng/Central nervous system.md",
     "Eng/Brain.md",
     "Eng/Cerebrum.md",
-    "中文/端脑.md",
-    "中文/脑.md",
-    "中文/小脑.md",
     "Eng/Cerebellum.md",
     "assets/Pasted image 20250701165201.png",
-    "中文/网状结构.md",
-    "中文/中枢神经系统.md",
     "Eng/CNS.md",
     "Eng/Gray matter.md",
     "Eng/Reticular formation.md",
