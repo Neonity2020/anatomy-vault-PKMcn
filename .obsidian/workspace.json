@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "MOC Tree"
             }
+          },
+          {
+            "id": "efdf866192e6546c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "参考书目.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "参考书目"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,34 +191,53 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3099a0009b352a0d",
+  "active": "efdf866192e6546c",
   "lastOpenFiles": [
-    "中文/网状结构.md",
-    "中文/小脑.md",
-    "中文/中枢神经系统.md",
-    "中文/脑干.md",
-    "中文/脑.md",
-    "中文/端脑.md",
     "欢迎.md",
-    "Eng/Brainstem.md",
-    "Eng/01-Acronym.md",
-    "building-log.md",
-    "assets/Pasted image 20250701173850.png",
+    "参考书目.md",
     "MOC Tree.md",
-    "Eng/Central nervous system.md",
-    "Eng/Brain.md",
-    "Eng/Cerebrum.md",
-    "Eng/Cerebellum.md",
-    "assets/Pasted image 20250701165201.png",
-    "Eng/CNS.md",
-    "Eng/Gray matter.md",
-    "Eng/Reticular formation.md",
-    "Eng/White matter.md",
-    "Eng/Reticular.md",
-    "Eng/Ependyma.md",
-    "assets",
-    "未命名 1.md",
-    "Eng",
-    "中文"
+    "中文/中枢神经系统/端脑/五叶/颞叶.md",
+    "中文/中枢神经系统/端脑/五叶/额叶.md",
+    "中文/中枢神经系统/端脑/五叶/顶叶.md",
+    "中文/中枢神经系统/端脑/五叶/枕叶.md",
+    "中文/中枢神经系统/端脑/五叶/岛叶.md",
+    "中文/中枢神经系统/端脑/三沟/顶枕沟.md",
+    "中文/中枢神经系统/端脑/三沟/外侧沟.md",
+    "中文/中枢神经系统/端脑/三沟/中央沟.md",
+    "中文/中枢神经系统/间脑/脑桥.md",
+    "中文/中枢神经系统/间脑/延髓.md",
+    "中文/中枢神经系统/间脑/中脑.md",
+    "中文/中枢神经系统/脑膜/硬脑膜.md",
+    "中文/中枢神经系统/脑膜/小脑镰.md",
+    "中文/中枢神经系统/脑膜/小脑幕.md",
+    "中文/中枢神经系统/脑膜/大脑镰.md",
+    "中文/中枢神经系统/端脑/五叶",
+    "中文/中枢神经系统/端脑/三沟",
+    "中文/中枢神经系统/颅部硬脑膜.md",
+    "中文/中枢神经系统/面神经.md",
+    "中文/中枢神经系统/间脑.md",
+    "中文/中枢神经系统/间脑",
+    "中文/中枢神经系统/迷走神经.md",
+    "中文/中枢神经系统/舌咽神经.md",
+    "中文/中枢神经系统/舌下神经.md",
+    "中文/中枢神经系统/脑膜.md",
+    "中文/中枢神经系统/脑膜",
+    "中文/中枢神经系统/脑干.md",
+    "中文/中枢神经系统/端脑",
+    "中文/中枢神经系统",
+    "assets/Pasted image 20250715183808.png",
+    "assets/Pasted image 20250704072656.png",
+    "assets/Pasted image 20250704071346.png",
+    "assets/Pasted image 20250702132200.png",
+    "assets/Pasted image 20250702132145.png",
+    "assets/Pasted image 20250702111234.png",
+    "assets/Pasted image 20250702105900.png",
+    "assets/Pasted image 20250702104420.png",
+    "assets/Pasted image 20250702102051.png",
+    "assets/Pasted image 20250702073604.png",
+    "Eng/Central nervous system/Meninges/Dura/Cranial dura",
+    "Eng/Central nervous system/Meninges/Dura",
+    "Eng/Central nervous system/Brain/Diencephalon",
+    "Eng/Central nervous system/Meninges"
   ]
 }

@@ -4,6 +4,7 @@ anatomy: "[[Brainstem]]"
 中文: "[[网状结构]]"
 ---
 **Keywords**: [[Reticular]] 
+![[Pasted image 20250701165201.png|400]]
 
 The **reticular formation** is a network of nerve cells and fibers located in the brainstem that connects various parts of the central nervous system. It consists mostly of interneurons and stretches downwards from the midbrain–through the pons and medulla oblongata–to the upper spinal cord, while also projecting upwards to subcortical and cortical brain structures. Embedded within it are several brainstem nuclei such as the red nucleus and the nucleus reticularis tegmenti pontis.
 

@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "a3a8c47fed04949a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd97a7e61727be0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "039628cb7f346a9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中文/中枢神经系统/网状结构.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "efb29d3fcae17753",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "24023743dfbca357",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2e3c6265d7ef727b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "36a65323dd5c68ac",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "bf7cf07b3e49f70b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e2541ba242bfd06f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1f5131208f475bd5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "中文/中枢神经系统/网状结构.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "65fd6e203d66a363",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "中文/中枢神经系统/网状结构.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cd954588dd7827ec",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "中文/中枢神经系统/网状结构.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "039628cb7f346a9d",
+  "lastOpenFiles": [
+    "Eng/Central nervous system/Reticular formation.md",
+    "中文/中枢神经系统/网状结构.md",
+    "中文/中枢神经系统.md",
+    "Eng/Central nervous system/Spinal cord.md",
+    "Eng/Central nervous system/Pituitary gland.md",
+    "Eng/Central nervous system/Brain/Brainstem.md",
+    "中文/中枢神经系统/脑干.md",
+    "Eng/Central nervous system/Medulla.md",
+    "大脑皮质.md",
+    "Cerebral cortex​.md",
+    "Eng/Central nervous system/Meninges.md",
+    "MOC Tree.md",
+    "Eng/Central nervous system/Brain/Diencephalon/Midbrain.md",
+    "中文/中枢神经系统/灰质.md",
+    "中文/中枢神经系统/面神经.md",
+    "中文/中枢神经系统/舌咽神经.md",
+    "中文/中枢神经系统/三叉神经.md",
+    "Eng/Central nervous system/ARAS.md",
+    "Eng/Central nervous system/Lobes.md",
+    "中文/中枢神经系统/迷走神经.md",
+    "中文/中枢神经系统/舌下神经.md",
+    "Eng/Central nervous system/Brain/Pons.md",
+    "Eng/Central nervous system/​​Gray matter.md",
+    "欢迎.md",
+    "Eng/Central nervous system/Brain/Cerebrum.md",
+    "中文/中枢神经系统/脑.md",
+    "assets/Pasted image 20250702132200.png",
+    "assets/Pasted image 20250702132145.png",
+    "assets/Pasted image 20250702111234.png",
+    "中文/中枢神经系统/间脑",
+    "中文/中枢神经系统/脑膜",
+    "中文/中枢神经系统/端脑/五叶",
+    "中文/中枢神经系统/端脑/三沟",
+    "中文/中枢神经系统/端脑",
+    "assets/Pasted image 20250702105900.png",
+    "assets/Pasted image 20250702104420.png",
+    "assets/Pasted image 20250702102051.png",
+    "Eng/Central nervous system/Brain/Diencephalon",
+    "Eng/Central nervous system/Brain"
+  ]
+}
