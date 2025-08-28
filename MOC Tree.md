@@ -13,3 +13,6 @@
 	- [[Pituitary gland]], [[垂体]]
 - [[Spinal cord]], [[脊髓]]
 ### Peripheral nervous system 外周神经系统
+
+## [[参考书目]]
+[[《人体断层解剖学图谱》]]
